@@ -334,7 +334,7 @@ By implementing these features with attention to security, performance, and user
 
 ## Visual Documentation
 
-![Airbnb Clone Features Overview](./airbnb-features-overview.p)
+![Airbnb Clone Features Overview](./airbnb-app-database-schema)
 
 *The diagram above provides a visual representation of all features and their relationships. It illustrates how different components of the system interact and depend on each other to create a cohesive booking platform.*
 
